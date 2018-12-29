@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenlin Pei / Algorithms"
+title                    : "Algorithms"
 title_separator          : "-"
 name                     : &name "Zhenlin Pei"
 description              : &description "personal description"
