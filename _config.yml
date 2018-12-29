@@ -85,7 +85,7 @@ author:
   bio              : "I'm from UCF."
   location         : "Orlando, FL"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "pei@knights.ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "http://blogs.cuit.columbia.edu/zp2130"
