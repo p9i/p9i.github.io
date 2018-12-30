@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am interest lie within the broad areas of computer-aided design (CAD), design automation, and large scale optimization. This involves formulating and solving large complex problems using various algorithms and data structures. 
+My interest lie within the broad areas of computer-aided design (CAD), design automation, and large scale optimization. This involves formulating and solving large complex problems using various algorithms and data structures. 
