@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Algorithms"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhenlin Pei"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhenlin Pei"
   avatar           : "Profile.jpg"
-  bio              : "I'm from UCF."
+  bio              : "I'm a Graduate Research Assistant."
   location         : "Orlando, FL."
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
