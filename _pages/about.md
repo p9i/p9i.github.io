@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in the broad areas of AI, Machine Learning, Reinforcement Learning.
+He is interested in the broad areas of Robotics AI, Machine Learning, Reinforcement Learning.
