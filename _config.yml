@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhenlin Pei"
+  name             : #"Zhenlin Pei"
   avatar           : "Profile.jpg"
   bio              : "Design"
   location         : #"TX"
