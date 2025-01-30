@@ -83,7 +83,7 @@ author:
   name             : "Zhenlin Pei"
   avatar           : "Profile.jpg"
   bio              : "Design"
-  location         : "TX"
+  location         : #"TX"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zp2130@caa.columbia.edu"
