@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-He is interested in the broad areas of Robotics AI, Machine Learning, Reinforcement Learning.
+Hi
